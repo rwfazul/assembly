@@ -1,6 +1,6 @@
 # Assembly
 
-game - Jogo 21 implmentado em assembly
+game - Jogo 21 implementado em assembly
 
 questions - Trabalho com perguntas diversas
 
